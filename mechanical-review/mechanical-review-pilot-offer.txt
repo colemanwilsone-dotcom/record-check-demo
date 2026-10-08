@@ -1,0 +1,67 @@
+MECHANICAL DOCUMENTATION REVIEW
+Pilot proposal | Revision 02 | October 8, 2026
+Draft for review - not issued, accepted or scheduled
+Prepared by: Coleman Wilson
+Prepared for: Customer to be confirmed
+
+1. General Project Description
+
+The objective is to review one small mechanical documentation package against the customer's stated baseline and identify discrepancies that need resolution.
+
+Deliverables:
+- Input register identifying the files and revisions reviewed.
+- PDF findings report with part, page or row references, observed conflicts, and proposed next actions.
+- List of checks that remain unverified because evidence is unavailable.
+- One follow-up review of corrections to the reported findings within the same scope and baseline.
+
+2. Detailed Specifications
+
+Scope baseline: DOC-REVIEW-PILOT, revision 02, October 8, 2026, defined below. Customer-specific part numbers, files and revisions are established before acceptance.
+
+R1. The package contains one assembly, up to five distinct parts, ten readable PDF drawing sheets, one BOM of up to 25 rows supplied as readable PDF, and one package file list.
+R2. The customer identifies the controlling revisions, quantities and required deliverables. Conflicts in that baseline are returned as questions.
+R3. The report compares part identities, stated revisions, quantities where a baseline is supplied, explicit material-note conflicts and missing listed deliverables.
+R4. Each finding cites its input source and identifies the decision or corrected evidence needed to resolve it. Unavailable checks are marked unverified.
+R5. Original inputs are preserved. Report completion does not grant manufacturing approval.
+R6. The work uses AI-assisted tooling with customer-approved inputs. The customer confirms permission to share those inputs for this workflow.
+
+Workflow: customer baseline and files -> input register -> cross-document comparison -> checked findings report -> one follow-up review.
+
+CAD modeling, drawing redesign, geometry inspection, certification, physical prototypes and manufacturing release are excluded from this pilot. SolidWorks and Fusion 360 parts, assemblies, model revisions and drawing services can be scoped separately after native-file compatibility and delivery capability are verified.
+
+3. Proposed Timeline
+
+M1 - Confirm the input package, scope, permitted AI use and payment arrangements.
+M2 - Complete the comparison and check every reported discrepancy against its cited source.
+M3 - Deliver the findings report and review the customer's response.
+M4 - Complete one follow-up review of corrections to the same findings.
+
+Dates are agreed after M1. No start date or turnaround is committed in this draft.
+
+4. Timeline Notes
+
+The critical path is receipt of readable files and an identified baseline. Missing revisions, conflicting instructions or unreadable scans require clarification before the affected check can proceed. Customer response time affects the follow-up review. New parts or a changed baseline require a scope review.
+
+5. Expense Totals
+
+Fixed document-review pilot, including one follow-up: US$75 proposed gross service price.
+NRE: prototype, tooling, vendor and test expenses: US$0; none included or authorized.
+Proposed service subtotal: US$75.
+Applicable taxes and platform charges, if any: to be confirmed before acceptance. Net proceeds are not yet known.
+
+This is a proposed pilot price, not a historical rate or an accepted quote.
+
+6. Project Billing Terms
+
+Payment channel, timing, platform fees and any applicable taxes are agreed before acceptance. No payment route or deposit has been configured. Additional scope requires a separately agreed price and authorization before that work begins.
+
+7. Proposal Approval
+
+Status: draft, not accepted. Customer identity, exact input baseline, delivery dates and payment arrangements remain open. No work commitment or signature is represented by this document.
+
+8. Document Revisions
+
+02 | 2026-10-08 | Reorganized into project description, specifications, timeline, expenses, billing, approval and revision sections. Neutral presentation; customer-specific content.
+01 | 2026-10-08 | Initial bounded pilot offer.
+
+Portfolio evidence: mechanical-document-review-sample.pdf is original synthetic work prepared with AI assistance. It demonstrates document comparison and reporting, not past client work or native CAD execution.
