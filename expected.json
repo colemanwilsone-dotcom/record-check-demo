@@ -1,0 +1,12 @@
+{
+  "total_rows": 6,
+  "flagged_rows": 4,
+  "rows": [
+    {"row": 1, "missing_fields": [], "duplicate_of_row": null},
+    {"row": 2, "missing_fields": ["name"], "duplicate_of_row": 1},
+    {"row": 3, "missing_fields": ["id"], "duplicate_of_row": null},
+    {"row": 4, "missing_fields": [], "duplicate_of_row": null},
+    {"row": 5, "missing_fields": [], "duplicate_of_row": 4},
+    {"row": 6, "missing_fields": ["name"], "duplicate_of_row": null}
+  ]
+}

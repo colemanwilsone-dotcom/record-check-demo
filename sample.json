@@ -1,0 +1,11 @@
+{
+  "required": ["id", "name"],
+  "records": [
+    {"id": "001", "name": "Synthetic Widget"},
+    {"id": "001", "name": ""},
+    {"name": "Synthetic Bracket"},
+    {"id": "002", "name": "Synthetic Spacer"},
+    {"id": "002", "name": "Synthetic Spacer Variant"},
+    {"id": "003", "name": "   "}
+  ]
+}
